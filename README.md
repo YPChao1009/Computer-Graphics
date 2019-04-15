@@ -1,3 +1,3 @@
-# Computer-Graphics
+# Computer Graphics
 
 OPENGL
