@@ -776,8 +776,3 @@ cout<<*argv[i]<<endl;
    glutMainLoop();                 
    return 0; 
 }
---------------------- 
-作者：wengtengfan 
-来源：CSDN 
-原文：https://blog.csdn.net/u014080185/article/details/51999416 
-版权声明：本文为博主原创文章，转载请附上博文链接！
